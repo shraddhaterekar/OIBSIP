@@ -43,4 +43,4 @@ The Advertising dataset contains the following columns:
 
 ## Files
 - Sales_Prediction.ipynb – Google Colab notebook containing the complete project.
-- - advertising.csv – Dataset used for analysis.
+- advertising.csv – Dataset used for analysis.
